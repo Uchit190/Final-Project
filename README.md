@@ -3,20 +3,7 @@
 ## 📌 Objective
 Use analytics to identify key factors behind employee attrition and build a machine learning model to predict which employees are likely to resign.
 
-## 📁 Project Structure
 
-```
-├── data/
-│   └── HR_dataset.csv
-├── notebooks/
-│   └── attrition_analysis.ipynb
-├── dashboards/
-│   └── powerbi_dashboard.pbix
-├── models/
-│   └── decision_tree_model.pkl
-├── report/
-│   └── HR_Analytics_Attrition_Report.docx
-├── README.md
 ```
 
 ## 🧰 Tools & Technologies Used
